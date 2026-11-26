@@ -1,0 +1,19 @@
+# Java / Maven
+target/
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
+
+# Node / Vite
+node_modules/
+frontend/dist/
+dist/
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
